@@ -85,3 +85,4 @@ Record Game End event
             });
     }
 ```
+### For more API Documentation, see: https://docs.dtml.org/dtml-platfrom-api-documentation/game-service
